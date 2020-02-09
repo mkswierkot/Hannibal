@@ -1,0 +1,17 @@
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.exe
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.deps.json
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.runtimeconfig.json
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.runtimeconfig.dev.json
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.dll
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\AuctorAPI.pdb
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.csprojAssemblyReference.cache
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.csproj.CoreCompileInputs.cache
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.RazorAssemblyInfo.cache
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.RazorAssemblyInfo.cs
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.AssemblyInfoInputs.cache
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.AssemblyInfo.cs
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.RazorTargetAssemblyInfo.cache
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.dll
+D:\SportCenter\AuctorAPI\obj\Release\netcoreapp2.2\win-x86\AuctorAPI.pdb
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+D:\SportCenter\AuctorAPI\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
