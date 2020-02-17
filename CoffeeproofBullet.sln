@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeproofBullet", "CoffeeproofBullet.csproj", "{AAE89E2F-8081-46BC-9C68-C4B2A58A52E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE89E2F-8081-46BC-9C68-C4B2A58A52E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE89E2F-8081-46BC-9C68-C4B2A58A52E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE89E2F-8081-46BC-9C68-C4B2A58A52E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE89E2F-8081-46BC-9C68-C4B2A58A52E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {409417B7-7B0F-4F7D-AC5A-B7892EAB3047}
+	EndGlobalSection
+EndGlobal
